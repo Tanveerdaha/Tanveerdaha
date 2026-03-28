@@ -14,9 +14,6 @@
 ## 📈 Contribution Graph
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Tanveerdaha&theme=react-dark&hide_border=false)
 
-## 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/Tanveerdaha/Tanveerdaha/output/github-contribution-grid-snake-dark.svg)
-
 ## 📅 Productivity Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanveerdaha&theme=github_dark)
 
